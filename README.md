@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://tenor.com/view/roy-leops-roy-leops-gojo-waving-gif-14322012650487993527" width="450" />
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4M2JtazB6OGd4MTRrODhqN2ZwbTR0eWFndnZ0NDJqcWR5bmY5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8uaJ5jAfWCPkgJxjHh/giphy.gif" width="450" />
 </p>
 
 ### Hi, I'm Chaimae! 👋
