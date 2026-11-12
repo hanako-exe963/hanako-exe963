@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2R4M2JtazB6OGd4MTRrODhqN2ZwbTR0eWFndnZ0NDJqcWR5bmY5NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8uaJ5jAfWCPkgJxjHh/giphy.gif" width="450" />
+  <img src="https://raw.githubusercontent.com/abhisheknkv/abhisheknkv/master/assets/hey.gif" width="450" />
 </p>
-
 ### Hi, I'm Chaimae! 👋
 
 ***I'm a final-year Master's student in Cybersecurity & Artificial Intelligence (M2 IAC) and an active CTF player on CTFtime. I love digging into the math and low-level mechanics behind security—whether it's hunting vulnerabilities in web apps, auditing smart contracts, analyzing memory dumps, or building intelligent defensive systems. Compared to last year, I've leveled up from just breaking things to actually documenting them properly and writing solid technical reports!***
