@@ -5,7 +5,7 @@
 
   ### ✨ Hi, I'm Chaimae! 👋
 
-  <p><em>Final-year Master's student in Cybersecurity & AI (M2 IAC) | CTF Player | Builder</em></p>
+  <p><em>Final-year Master's student in Cybersecurity & AI (M2 CIA) | CTF Player | Builder</em></p>
 
   <p>
     I love digging into the math and low-level mechanics behind security—whether it's hunting vulnerabilities in web apps, auditing smart contracts, analyzing memory dumps, or building intelligent defensive systems. <br>
