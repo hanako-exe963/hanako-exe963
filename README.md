@@ -37,10 +37,16 @@
 
 ### ❓ Ask me about
 
-* **Offensive Security & Digital Forensics:** Pretty friendly with **Burp Suite**, **Wireshark**, **Volatility**, **Nmap**, **Foremost**, and **Binwalk**—covering web pentesting, authentication log auditing, PCAP carving, RAM forensics, and vulnerability analysis.
-* **Blockchain & Cryptography:** **Solidity**, EVM fundamentals, Web3 concepts, and classical/post-quantum cryptography.
-* **AI, Big Data & Development:** Deep Learning (PyTorch, Scikit-Learn), LLM mathematical modeling, Big Data pipelines (Hadoop/Hive), and full-stack/systems dev (Python, Rust, Next.js, Laravel).
+- **Offensive Security & Digital Forensics:** Pretty friendly with **Burp Suite**, **Wireshark**, **Volatility**, **Nmap**, **Foremost**, and **Binwalk**—covering web pentesting, authentication log auditing, PCAP carving, RAM forensics, and vulnerability analysis.
 
-### ⚡ Fun fact
+- **Cloud Security & Architecture:** Securing cloud environments, IAM policies, containerized workloads, and network isolation.
 
-*My first reflex is still opening DevTools before even looking at a website! 🤪 Also, I treat every system—and every game—like a reverse-engineering puzzle just to see how far I can push the logic.*
+- **Blockchain & Cryptography:** **Solidity**, EVM fundamentals, Web3 concepts, and classical/post-quantum cryptography.
+
+- **AI, Big Data & Backend Systems:** Deep Learning (**PyTorch**, **Scikit-Learn**), LLM mathematical modeling, Big Data pipelines (**Hadoop/Hive**), **SQL** & relational database design (from architecting full-scale **ERP** systems), and systems/web dev (**Python**, **Rust**, **Next.js**, **Laravel**).
+
+- **Vibe Coding & AI Workflows:** Building local multi-agent setups (**Ollama**, **DeepSeek**) and automating tasks. *(Full disclosure: I used to write everything from scratch, now I'm officially a vibe coder—shipping faster by orchestrating AI agents instead of fighting boilerplate).*
+  
+### ⚡ My Theory
+
+*Time travel is real—just focus hard enough on a tricky problem and watch time move at the speed of light.*
