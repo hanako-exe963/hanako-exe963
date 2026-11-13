@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknkv/abhisheknkv/master/assets/hey.gif" width="450" />
+  <img src="./Mama%20Hacking%20GIF.gif" width="450" />
 </p>
 ### Hi, I'm Chaimae! 👋
 
