@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="./Mama%20Hacking%20GIF.gif" width="100%" />
+  <img src="./Mama%20Hacking%20GIF.gif" width="600" />
 </p>
-### Hi, I'm Chaimae! 👋
+    Hi, I'm Chaimae! 👋
 
 ***I'm a final-year Master's student in Cybersecurity & Artificial Intelligence (M2 IAC) and an active CTF player on CTFtime. I love digging into the math and low-level mechanics behind security—whether it's hunting vulnerabilities in web apps, auditing smart contracts, analyzing memory dumps, or building intelligent defensive systems. Compared to last year, I've leveled up from just breaking things to actually documenting them properly and writing solid technical reports!***
 
