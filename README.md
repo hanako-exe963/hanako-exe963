@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./Mama%20Hacking%20GIF.gif" width="450" />
+  <img src="./Mama%20Hacking%20GIF.gif" width="100%" />
 </p>
 ### Hi, I'm Chaimae! 👋
 
